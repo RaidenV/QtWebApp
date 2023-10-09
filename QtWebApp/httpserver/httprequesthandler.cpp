@@ -5,7 +5,7 @@
 
 #include "httprequesthandler.h"
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 HttpRequestHandler::HttpRequestHandler(QObject* parent)
     : QObject(parent)

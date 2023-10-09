@@ -13,7 +13,7 @@
     #include <QRecursiveMutex>
 #endif
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 Logger* Logger::defaultLogger=nullptr;
 

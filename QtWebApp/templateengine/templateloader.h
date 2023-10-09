@@ -13,7 +13,7 @@
 #include "templateglobal.h"
 #include "template.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
   Loads localized versions of template files. If the caller requests a file with the

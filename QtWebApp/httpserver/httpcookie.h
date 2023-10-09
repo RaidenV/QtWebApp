@@ -10,7 +10,7 @@
 #include <QByteArray>
 #include "httpglobal.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
   HTTP cookie as defined in RFC 2109.

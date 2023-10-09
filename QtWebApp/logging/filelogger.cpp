@@ -14,7 +14,7 @@
 #include <QFileInfo>
 #include <stdio.h>
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 void FileLogger::refreshSettings()
 {

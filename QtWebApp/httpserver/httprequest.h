@@ -16,7 +16,7 @@
 #include <QUuid>
 #include "httpglobal.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
   This object represents a single HTTP request. It reads the request

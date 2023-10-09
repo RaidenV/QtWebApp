@@ -3,7 +3,7 @@
 #include <QStringList>
 #include <QSet>
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 TemplateCache::TemplateCache(const QSettings* settings, QObject* parent)
     :TemplateLoader(settings,parent)

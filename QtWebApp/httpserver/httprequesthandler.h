@@ -10,7 +10,7 @@
 #include "httprequest.h"
 #include "httpresponse.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
    The request handler generates a response for each HTTP request. Web Applications

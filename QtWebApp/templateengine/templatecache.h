@@ -5,7 +5,7 @@
 #include "templateglobal.h"
 #include "templateloader.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
   Caching template loader, reduces the amount of I/O and improves performance

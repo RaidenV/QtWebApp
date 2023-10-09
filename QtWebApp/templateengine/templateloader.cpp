@@ -16,7 +16,7 @@
     #include <QRegExp>
 #endif
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 TemplateLoader::TemplateLoader(const QSettings *settings, QObject *parent)
     : QObject(parent)

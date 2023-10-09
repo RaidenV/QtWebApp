@@ -13,7 +13,7 @@
 #include <QString>
 #include "templateglobal.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /**
  Enhanced version of QString for template processing. Templates

@@ -8,7 +8,7 @@
 #include <QDir>
 #include "httpcookie.h"
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 HttpRequest::HttpRequest(const QSettings* settings)
 {

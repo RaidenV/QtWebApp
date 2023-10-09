@@ -17,7 +17,7 @@
 #include "httprequest.h"
 #include "httprequesthandler.h"
 
-namespace stefanfrings {
+namespace HttpServer {
 
 /** Alias type definition, for compatibility to different Qt versions */
 #if QT_VERSION >= QT_VERSION_CHECK(5, 0, 0)

@@ -6,7 +6,7 @@
 #include "httpconnectionhandler.h"
 #include "httpresponse.h"
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 HttpConnectionHandler::HttpConnectionHandler(const QSettings *settings, HttpRequestHandler *requestHandler, const QSslConfiguration* sslConfiguration)
     : QObject()

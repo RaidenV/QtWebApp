@@ -8,7 +8,7 @@
 #include "httpconnectionhandlerpool.h"
 #include <QCoreApplication>
 
-using namespace stefanfrings;
+using namespace HttpServer;
 
 HttpListener::HttpListener(const QSettings* settings, HttpRequestHandler* requestHandler, QObject *parent)
     : QTcpServer(parent)
